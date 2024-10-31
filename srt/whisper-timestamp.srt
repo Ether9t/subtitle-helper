@@ -1,0 +1,1044 @@
+1
+00:00:03,340 --> 00:00:06,380
+Okay, let's talk about why we make bad decisions.
+
+2
+00:00:06,540 --> 00:00:12,040
+So if you're like me, then you've probably been in that situation where it's the end
+
+3
+00:00:12,040 --> 00:00:16,180
+of the day or it's the morning and you're thinking like, okay, I'm going to make a solid
+
+4
+00:00:16,820 --> 00:00:17,660
+plan for myself.
+
+5
+00:00:18,260 --> 00:00:20,280
+Today, I'm going to be disciplined.
+
+6
+00:00:21,160 --> 00:00:25,780
+I'm going to come home from work and I'm going to get all these errands done and I'm going
+
+7
+00:00:25,800 --> 00:00:30,520
+to treat myself really well. I'm going to make a nice, healthy, proper meal.
+
+8
+00:00:31,000 --> 00:00:35,080
+I'm going to go to the gym afterwards. I'm going to exercise and then maybe when I come
+
+9
+00:00:35,080 --> 00:00:39,480
+home, I'll like start reading a book or something. I'll do something a little different.
+
+10
+00:00:39,520 --> 00:00:45,980
+Something that makes me feel like I'm going to advance my life in a new, positive direction.
+
+11
+00:00:46,840 --> 00:00:53,820
+This is our real life volition and it's there to lead you on your way to making good life
+
+12
+00:00:53,920 --> 00:00:54,380
+decisions.
+
+13
+00:00:55,240 --> 00:00:57,260
+But this doesn't always work out that way.
+
+14
+00:00:57,600 --> 00:01:01,780
+Sometimes you get to the end of the day and you realize that you haven't been very disciplined.
+
+15
+00:01:02,400 --> 00:01:02,760
+At all.
+
+16
+00:01:03,440 --> 00:01:07,940
+A lot of those errands are still incomplete or half-started.
+
+17
+00:01:08,720 --> 00:01:14,020
+We didn't end up going to the gym and instead of making a proper meal, we've ordered some
+
+18
+00:01:14,020 --> 00:01:16,560
+definitely not healthy takeout food.
+
+19
+00:01:17,100 --> 00:01:22,040
+And instead of reading that book, maybe you end up watching a show you've already seen
+
+20
+00:01:22,280 --> 00:01:28,060
+and we've not advanced our life in a positive, meaningful direction in any way at all.
+
+21
+00:01:28,740 --> 00:01:29,940
+What is happening here?
+
+22
+00:01:30,500 --> 00:01:36,780
+Why would we ignore the voice of volition that's telling us to do all of these beneficial
+
+23
+00:01:36,880 --> 00:01:37,940
+positive things?
+
+24
+00:01:37,980 --> 00:01:40,740
+Well, it could be a lot of things, honestly.
+
+25
+00:01:41,240 --> 00:01:46,630
+And definitely having a mental health diagnosis is going to amplify this problem a lot
+
+26
+00:01:46,630 --> 00:01:47,020
+more.
+
+27
+00:01:47,220 --> 00:01:50,260
+But even for the average person, this happens pretty often.
+
+28
+00:01:50,440 --> 00:01:52,120
+I mean, it certainly happens to me.
+
+29
+00:01:52,820 --> 00:01:57,810
+So what I wanted to share with you today is a framework for understanding why this problem
+
+30
+00:01:57,810 --> 00:02:00,940
+happens and what we can actually do about it.
+
+31
+00:02:01,480 --> 00:02:05,720
+This is a real problem that actually comes up in my work as a therapist kind of often.
+
+32
+00:02:06,380 --> 00:02:14,110
+And I have really enjoyed seeing it demonstrated so clearly and given such a unique role within
+
+33
+00:02:14,110 --> 00:02:17,360
+the structure of a game like Disco Elysium has.
+
+34
+00:02:18,160 --> 00:02:24,090
+So okay, there is a reason that we do not always follow the voice of volition and go through
+
+35
+00:02:24,090 --> 00:02:25,340
+with our good intentions.
+
+36
+00:02:25,800 --> 00:02:29,360
+And it has to do with something called psychological friction.
+
+37
+00:02:30,140 --> 00:02:37,300
+So in this context, friction is any force either internal or external, which opposes a behavioral
+
+38
+00:02:37,380 --> 00:02:37,820
+change.
+
+39
+00:02:37,940 --> 00:02:40,680
+So what do we know about like regular friction, right?
+
+40
+00:02:41,040 --> 00:02:47,740
+If I am standing on an ice rink and I move my body weight around a little bit, I'm going
+
+41
+00:02:47,740 --> 00:02:49,520
+to start sliding around on the ice.
+
+42
+00:02:50,020 --> 00:02:53,980
+There's not a lot of friction between me and the surface that's under me.
+
+43
+00:02:54,520 --> 00:02:59,680
+When I step off the ice and now I'm standing on concrete, when I shift myself around,
+
+44
+00:02:59,860 --> 00:03:00,940
+I don't move, right?
+
+45
+00:03:00,940 --> 00:03:03,840
+There is a lot more friction between me and the ground.
+
+46
+00:03:04,380 --> 00:03:07,380
+And psychologically, this principle is basically the same thing.
+
+47
+00:03:07,780 --> 00:03:12,740
+If you imagine you're trying to do something, it's going to be much harder if there is
+
+48
+00:03:12,740 --> 00:03:18,420
+more friction between you and the process and it's going to be much easier if there is
+
+49
+00:03:18,420 --> 00:03:19,140
+less friction.
+
+50
+00:03:19,500 --> 00:03:24,500
+When friction is introduced and we'll talk about what kinds of friction are very common,
+
+51
+00:03:24,980 --> 00:03:27,440
+the process tends to slow down.
+
+52
+00:03:27,500 --> 00:03:31,900
+We tend to have a harder time actually completing the thing we're trying to do and it's much more
+
+53
+00:03:31,900 --> 00:03:33,650
+likely that we're going to give up.
+
+54
+00:03:33,650 --> 00:03:39,520
+When there is less friction or we find a way to reduce the friction that's there, the
+
+55
+00:03:39,520 --> 00:03:45,100
+process can start to speed up again and we'll find more motivation to actually keep working
+
+56
+00:03:45,220 --> 00:03:45,600
+on it.
+
+57
+00:03:45,940 --> 00:03:48,820
+Really we can kind of think of this how habits work, right?
+
+58
+00:03:50,040 --> 00:03:55,840
+When you're trying to do something new, it can be hard to stay motivated and be consistent
+
+59
+00:03:55,880 --> 00:03:57,780
+and be very disciplined in it.
+
+60
+00:03:58,200 --> 00:04:02,660
+We have to be very rigorous and consistent with things before they start to get easier
+
+61
+00:04:02,760 --> 00:04:08,520
+and we have to do less work to get ourselves in the mindset to do it.
+
+62
+00:04:08,640 --> 00:04:12,780
+Like if we're trying to start an exercise, regiment or something, so there's a lot of
+
+63
+00:04:12,780 --> 00:04:15,500
+friction between us and this new behavioral change.
+
+64
+00:04:16,980 --> 00:04:23,480
+Things start to get easier when we learn more about that process and we start developing
+
+65
+00:04:24,260 --> 00:04:30,540
+sort of like the mental tricks to get ourselves into that kind of mode where we want to do
+
+66
+00:04:30,540 --> 00:04:30,680
+it.
+
+67
+00:04:31,020 --> 00:04:35,650
+We don't have to convince ourselves anymore and our stamina to do the thing that's
+
+68
+00:04:35,650 --> 00:04:40,260
+difficult starts to go up and there's a lot less friction here.
+
+69
+00:04:40,600 --> 00:04:47,010
+We start to develop that habit when the process becomes streamlined and simplified and we
+
+70
+00:04:47,010 --> 00:04:52,440
+have to do less of the psychological work to get ourselves moving on it.
+
+71
+00:04:52,880 --> 00:04:58,490
+So basically the things that we tend to do the most and the patterns of behavior that
+
+72
+00:04:58,490 --> 00:05:03,840
+we tend to repeat are those where the amount of friction between us and the process is
+
+73
+00:05:03,840 --> 00:05:04,700
+very minimal.
+
+74
+00:05:05,200 --> 00:05:09,280
+So this is part of why when we tell ourselves we're going to do all of these nice things,
+
+75
+00:05:10,880 --> 00:05:15,200
+a lot of friction tends to get introduced in that process because thinking about doing
+
+76
+00:05:15,200 --> 00:05:20,900
+all of those things isn't really that hard but when it comes down to it, it takes an extra
+
+77
+00:05:20,940 --> 00:05:26,400
+layer of scheduling and timing and trying to like balance your energy throughout the day,
+
+78
+00:05:26,400 --> 00:05:31,060
+you better make sure that you slept enough, ate well enough to that you're hydrated,
+
+79
+00:05:31,720 --> 00:05:36,260
+that you actually have the motivation at the time you're trying to do that thing to actually
+
+80
+00:05:36,960 --> 00:05:37,540
+start it.
+
+81
+00:05:37,780 --> 00:05:43,880
+Honestly, at the end of a long day we're not typically still in the high motivation
+
+82
+00:05:44,160 --> 00:05:48,980
+state that we were at the beginning of the day when volition was telling us how awesome
+
+83
+00:05:48,980 --> 00:05:51,460
+we're going to be sometime later.
+
+84
+00:05:51,980 --> 00:05:59,740
+We are not always interested or capable sometimes of fighting against all of the friction that
+
+85
+00:06:00,480 --> 00:06:01,880
+has found us along the way.
+
+86
+00:06:02,180 --> 00:06:05,580
+So we choose things that are less difficult, right?
+
+87
+00:06:05,620 --> 00:06:11,460
+The kinds of habits that we've already formed that we know work that don't require a
+
+88
+00:06:11,460 --> 00:06:14,780
+lot of mental fortitude to carry out.
+
+89
+00:06:15,140 --> 00:06:20,900
+Volition asks us to do things which are good for us but that they are difficult to accomplish.
+
+90
+00:06:21,420 --> 00:06:27,020
+And so it's often the voices of half-light or electrochemistry that give us other options
+
+91
+00:06:27,440 --> 00:06:32,280
+and don't ask us to fight against a bunch of friction.
+
+92
+00:06:32,680 --> 00:06:36,040
+They just want us to chase whatever impulse makes sense in the moment.
+
+93
+00:06:36,380 --> 00:06:39,260
+You should tell people to f*** off more often.
+
+94
+00:06:39,900 --> 00:06:40,300
+I should.
+
+95
+00:06:40,320 --> 00:06:41,100
+I should do that.
+
+96
+00:06:41,300 --> 00:06:41,860
+Then you shouldn't.
+
+97
+00:06:42,460 --> 00:06:43,680
+You're an officer of the law.
+
+98
+00:06:43,960 --> 00:06:44,640
+Maybe I shouldn't.
+
+99
+00:06:45,040 --> 00:06:49,550
+So this has been really fascinating to see portrayed in disco-alecium because in my
+
+100
+00:06:49,550 --> 00:06:55,120
+playthrough I've been kind of role-playing and demonstrating this whole problem, right?
+
+101
+00:06:55,520 --> 00:07:00,520
+And so sometimes volition will chime in with a thought and I just ignore it.
+
+102
+00:07:00,620 --> 00:07:06,530
+And I go do something that for a lot of people looks like it's not really within my character's
+
+103
+00:07:06,530 --> 00:07:08,840
+best interest and they're right.
+
+104
+00:07:09,200 --> 00:07:10,460
+But that's how people are.
+
+105
+00:07:11,380 --> 00:07:13,540
+We are kind of walking contradictions.
+
+106
+00:07:14,420 --> 00:07:17,500
+We just don't always act in our own best interests.
+
+107
+00:07:18,360 --> 00:07:23,380
+Like I said, even though the thought to do something good is available to us, that doesn't
+
+108
+00:07:23,440 --> 00:07:25,140
+mean we're actually going to do it.
+
+109
+00:07:25,480 --> 00:07:30,730
+In fact, we're very keenly aware a lot of the times that we are doing something that's
+
+110
+00:07:30,730 --> 00:07:31,880
+not in our best interest.
+
+111
+00:07:32,180 --> 00:07:35,570
+And we're pulling the ice cream out of the fridge and telling ourselves along the way
+
+112
+00:07:35,570 --> 00:07:36,860
+I really shouldn't.
+
+113
+00:07:38,100 --> 00:07:39,020
+But I'm gonna anyway.
+
+114
+00:07:40,100 --> 00:07:41,630
+So this is a real problem, right?
+
+115
+00:07:41,630 --> 00:07:45,380
+And the game is so good at demonstrating this.
+
+116
+00:07:46,660 --> 00:07:48,480
+So what do you do about this, right?
+
+117
+00:07:48,720 --> 00:07:54,180
+I like the word friction because it gives us a very easy framework to understand.
+
+118
+00:07:54,600 --> 00:08:00,820
+And so when I'm working with someone who is struggling with motivation or a lot of times
+
+119
+00:08:01,140 --> 00:08:05,140
+we're sort of questioning, like, I'm very passionate about this thing, but I don't find
+
+120
+00:08:05,140 --> 00:08:06,440
+myself doing it a lot.
+
+121
+00:08:07,160 --> 00:08:08,640
+Like I don't know what's wrong with me.
+
+122
+00:08:08,640 --> 00:08:10,100
+Maybe I've lost interest in it.
+
+123
+00:08:10,260 --> 00:08:15,480
+That's where we may start to ask the question, okay, well, what kind of friction is in this
+
+124
+00:08:15,480 --> 00:08:19,680
+process for you and how might we start to work to reduce it?
+
+125
+00:08:19,880 --> 00:08:24,900
+And the best place to start is actually trying to understand whether this friction is even
+
+126
+00:08:25,460 --> 00:08:27,820
+real or not because that's the thing.
+
+127
+00:08:28,640 --> 00:08:33,140
+There is real psychological friction and perceived psychological friction.
+
+128
+00:08:33,880 --> 00:08:39,380
+Now, that is not to say that friction by itself is a bad thing.
+
+129
+00:08:39,920 --> 00:08:45,640
+In fact, there are some cases where introducing friction to some sort of behavioral process
+
+130
+00:08:45,840 --> 00:08:47,540
+is actually a good thing.
+
+131
+00:08:47,800 --> 00:08:53,980
+Think about an addiction, for example, right, which is a big part of dysgolism where the
+
+132
+00:08:53,980 --> 00:09:02,740
+habit to seek and use a substance has become very normalized for us and we're always looking
+
+133
+00:09:02,880 --> 00:09:07,900
+to have the least amount of friction between us and continuing that substance use.
+
+134
+00:09:08,360 --> 00:09:15,080
+And so actually when you're trying to work on breaking a habit or lower the chances
+
+135
+00:09:15,160 --> 00:09:20,140
+that an addiction develops, you actually want to introduce friction to the process.
+
+136
+00:09:20,500 --> 00:09:26,300
+Essentially, making things harder is going to slow down and make completely interrupt
+
+137
+00:09:26,420 --> 00:09:28,520
+the process that we are trying to change.
+
+138
+00:09:28,840 --> 00:09:34,220
+This is why when people are trying to quit a substance, they typically go to a detox center
+
+139
+00:09:34,240 --> 00:09:37,000
+and then they go into full rehabilitation.
+
+140
+00:09:37,880 --> 00:09:43,200
+And that's to completely separate themselves from the environment and all of the social
+
+141
+00:09:43,220 --> 00:09:47,820
+and psychological issues which made repeating that pattern of behavior very easy.
+
+142
+00:09:48,060 --> 00:09:53,890
+We want to introduce a ton of friction to this person's life temporarily so that we can
+
+143
+00:09:53,890 --> 00:10:00,330
+learn to develop better strategies to cope with the issues that resulted in some sort of
+
+144
+00:10:00,330 --> 00:10:00,700
+addiction.
+
+145
+00:10:01,360 --> 00:10:08,720
+So this was all pretty well demonstrated in my own playthrough in which we spent a lot
+
+146
+00:10:08,720 --> 00:10:15,150
+of time trying to find a way to buy a pack of cigarettes and I was explaining how when
+
+147
+00:10:15,150 --> 00:10:20,200
+we have a chemical dependence on something, we are often going to prioritize that over
+
+148
+00:10:20,200 --> 00:10:27,820
+most other things, higher order things like solving a crime or strengthening our relationships.
+
+149
+00:10:28,600 --> 00:10:32,640
+Also the thought pattern may have been something like, okay, well, our character wants to smoke.
+
+150
+00:10:33,340 --> 00:10:34,240
+How do I do that?
+
+151
+00:10:34,440 --> 00:10:35,880
+What's the simplest path here?
+
+152
+00:10:35,880 --> 00:10:40,040
+I want to find the way with the least amount of friction like I need this now.
+
+153
+00:10:40,640 --> 00:10:43,020
+So we go into Frita and Frita girl is there.
+
+154
+00:10:43,700 --> 00:10:46,820
+And she tells us that we don't have the money for cigarettes.
+
+155
+00:10:47,560 --> 00:10:49,560
+There's a way that we can get the money for cigarettes.
+
+156
+00:10:49,700 --> 00:10:53,280
+What we can do is we can collect tear and tear is trash.
+
+157
+00:10:53,880 --> 00:10:58,150
+And so what we can do is try to find a bag so that we can pick up all the tear and revisher
+
+158
+00:10:58,150 --> 00:11:03,090
+and we'll spend as much time as we need to collecting this so that we can go and buy
+
+159
+00:11:03,090 --> 00:11:03,740
+the cigarettes.
+
+160
+00:11:03,820 --> 00:11:07,740
+And that sounds like kind of a difficult drawn out process.
+
+161
+00:11:08,280 --> 00:11:15,170
+And it was, however, there was less friction in doing that than there would be if I tried
+
+162
+00:11:15,170 --> 00:11:19,680
+to solve this murder without the stimulant that my body is craving.
+
+163
+00:11:20,280 --> 00:11:25,960
+I may have been telling myself, look, this whole detective thing is just way too hard without
+
+164
+00:11:26,000 --> 00:11:26,420
+a buzz.
+
+165
+00:11:26,540 --> 00:11:28,200
+There's too much friction.
+
+166
+00:11:28,260 --> 00:11:29,300
+I can't talk to people.
+
+167
+00:11:29,340 --> 00:11:30,280
+I can't think straight.
+
+168
+00:11:31,380 --> 00:11:36,080
+I'm going to do this other thing that's still difficult, but maybe it will help reduce
+
+169
+00:11:36,140 --> 00:11:40,560
+the amount of friction in this other bigger, more difficult task.
+
+170
+00:11:40,680 --> 00:11:42,480
+And then we'll go do it.
+
+171
+00:11:42,840 --> 00:11:48,240
+And that is an example of totally made up perceived fake friction.
+
+172
+00:11:50,400 --> 00:11:53,620
+Like smoking cigarettes doesn't actually make us a better detective.
+
+173
+00:11:53,860 --> 00:11:59,460
+Like, it gives us maybe a false sense of like plus one to our intellect.
+
+174
+00:12:01,160 --> 00:12:05,380
+But we may have convinced ourselves as many people who are struggling with substances
+
+175
+00:12:05,480 --> 00:12:11,320
+do that we are inadequate or unable to perform a certain task without this thing.
+
+176
+00:12:11,800 --> 00:12:15,440
+And so like we look at that and say, no, there's too much friction.
+
+177
+00:12:15,440 --> 00:12:16,640
+I can't do that.
+
+178
+00:12:16,880 --> 00:12:17,620
+It's too hard.
+
+179
+00:12:19,180 --> 00:12:21,160
+Having this substance will make it easier.
+
+180
+00:12:21,480 --> 00:12:27,440
+When really what we have done is just choose something that's equally hard and we're reinforcing
+
+181
+00:12:27,600 --> 00:12:28,880
+a bad pattern of behavior.
+
+182
+00:12:29,680 --> 00:12:31,460
+And one that's pretty bad for us.
+
+183
+00:12:32,280 --> 00:12:35,240
+So that was a demonstration of the perceived kind of friction, right?
+
+184
+00:12:36,340 --> 00:12:41,600
+Then this happened again, nearing the end of our first day in Revishall, in which my
+
+185
+00:12:41,600 --> 00:12:46,260
+character had also been searching for ways to drink alcohol.
+
+186
+00:12:46,740 --> 00:12:50,760
+And so we come to the end of the day and we hadn't really found any opportunities to do
+
+187
+00:12:50,760 --> 00:12:56,120
+that besides like licking some alcohol off of a table.
+
+188
+00:12:57,220 --> 00:13:01,080
+But so we're standing there at the end of the day and we're talking to Gart who is the
+
+189
+00:13:01,080 --> 00:13:06,420
+manager of the whirling and rags and we're asking him like, can I buy a drink?
+
+190
+00:13:06,880 --> 00:13:09,220
+Look I've had a long day, okay?
+
+191
+00:13:10,120 --> 00:13:13,480
+I spent most of it looking for cigarettes and then I did a little bit of detective work
+
+192
+00:13:13,540 --> 00:13:15,220
+and it has tired me out, okay?
+
+193
+00:13:15,740 --> 00:13:21,720
+Now I need the other substance that I'm dependent on to sleep all of this off.
+
+194
+00:13:22,040 --> 00:13:25,720
+And that's when Gart tells us like, dude, I'm not the bartender, okay?
+
+195
+00:13:26,360 --> 00:13:27,840
+I don't actually serve drinks here.
+
+196
+00:13:28,540 --> 00:13:29,880
+Find another way to get drunk.
+
+197
+00:13:30,140 --> 00:13:30,720
+You know what?
+
+198
+00:13:32,520 --> 00:13:38,260
+The impact of rejection is stronger than the impulse to drink from my guy right now as
+
+199
+00:13:38,280 --> 00:13:39,000
+a sorry cop.
+
+200
+00:13:40,180 --> 00:13:47,280
+I abandoned, I'm going to abandon the desire to drink because I am too ashamed to ask
+
+201
+00:13:47,320 --> 00:13:47,640
+further.
+
+202
+00:13:47,860 --> 00:13:54,720
+He effectively made it more difficult for us to do this and in my mind and in simulating
+
+203
+00:13:54,740 --> 00:13:58,590
+the character's perspective, like we decided that this was just too much work, right?
+
+204
+00:13:58,590 --> 00:14:00,580
+Like we're already tired enough.
+
+205
+00:14:01,480 --> 00:14:07,440
+Who knows how much more time and effort and money this was going to take to get some
+
+206
+00:14:07,440 --> 00:14:08,500
+alcohol, right?
+
+207
+00:14:09,480 --> 00:14:10,220
+And so we gave up.
+
+208
+00:14:10,920 --> 00:14:14,780
+There was too much friction introduced to the process that it would involve talking
+
+209
+00:14:14,840 --> 00:14:19,180
+to people, it would have involved budgeting, it would have involved embarrassing ourselves
+
+210
+00:14:19,340 --> 00:14:20,140
+even more.
+
+211
+00:14:20,580 --> 00:14:26,700
+And so with a lot of friction introduced to the process, this slowed down and has the
+
+212
+00:14:26,700 --> 00:14:29,980
+potential to completely interrupt the problem behavior.
+
+213
+00:14:30,880 --> 00:14:39,620
+So I just find this whole thing fascinating that the voice of Elisha represents what is
+
+214
+00:14:39,660 --> 00:14:47,160
+in real life just our good intentions to make healthy balance decisions for ourselves.
+
+215
+00:14:47,660 --> 00:14:51,980
+And yet typically the things that it wants us to do require a lot of effort, a lot of
+
+216
+00:14:52,480 --> 00:14:58,860
+deep behavioral changes and there are often a lot of barriers in between us and doing
+
+217
+00:14:58,920 --> 00:15:06,580
+them. And here you have like other voices which have not so great intentions for us in
+
+218
+00:15:06,580 --> 00:15:10,140
+competition with volition and there's way less friction involved in those.
+
+219
+00:15:10,340 --> 00:15:14,280
+And so we chase those impulses even though we know we shouldn't.
+
+220
+00:15:14,900 --> 00:15:16,960
+That is just real life.
+
+221
+00:15:17,340 --> 00:15:19,580
+And I love Disco Elysium for this.
+
+222
+00:15:19,680 --> 00:15:22,520
+It's been one of my favorite parts of the game so far.
+
+223
+00:15:22,700 --> 00:15:25,260
+So what can you take away from this?
+
+224
+00:15:26,500 --> 00:15:31,880
+Consider a change that you've been trying to make recently or a habit that you're trying
+
+225
+00:15:31,880 --> 00:15:36,540
+to break and ask yourself, like what is the friction involved in this process, right?
+
+226
+00:15:36,940 --> 00:15:42,020
+Like what is making it hard for me to make this good change?
+
+227
+00:15:42,560 --> 00:15:46,800
+And is that a real source of friction or is it one that I'm kind of like perceiving?
+
+228
+00:15:47,200 --> 00:15:52,900
+Because at the end of the day we choose to ignore a volition even though we know it's
+
+229
+00:15:52,900 --> 00:15:55,760
+there and that it actually wants something better for us.
+
+230
+00:15:56,160 --> 00:16:02,900
+I genuinely think that making a change is not always about working harder at something.
+
+231
+00:16:03,680 --> 00:16:08,230
+In fact, a lot of times I think it's about making the process easier, right?
+
+232
+00:16:08,230 --> 00:16:11,800
+Simpler, streamlined, with the least amount of friction.
+
+233
+00:16:12,520 --> 00:16:18,920
+And you may find that over time, just like any other habit, the more you train yourself
+
+234
+00:16:19,040 --> 00:16:24,970
+to detect and resolve the sources of friction in your life, you actually find it a little
+
+235
+00:16:24,970 --> 00:16:28,580
+easier to listen to volition when it talks to you.
+
+236
+00:16:29,520 --> 00:16:34,060
+So that is why we ignore a volition in real life.
+
+237
+00:16:35,100 --> 00:16:39,800
+I am very curious to hear what all of you think about this.
+
+238
+00:16:39,920 --> 00:16:45,320
+And if there's anything that you can think of that is a source of friction in your life
+
+239
+00:16:45,320 --> 00:16:47,680
+that you may not even even really know is there.
+
+240
+00:16:48,120 --> 00:16:53,980
+So far, disco-aliceum has been amazing at like bringing together real mental health with
+
+241
+00:16:54,100 --> 00:16:55,800
+practical game mechanics.
+
+242
+00:16:56,380 --> 00:16:58,410
+And I find that really fun to talk about.
+
+243
+00:16:58,410 --> 00:17:04,780
+So I'm also curious if there's other games and other systems in them that you think
+
+244
+00:17:04,780 --> 00:17:07,300
+would be worthy of this kind of analysis as well.
+
+245
+00:17:07,880 --> 00:17:08,140
+Who knows?
+
+246
+00:17:08,140 --> 00:17:12,660
+Maybe this could be like a series or something where we talk about like the crossover
+
+247
+00:17:12,800 --> 00:17:19,700
+between game design and mental health and how mechanics can represent real cognitive structures
+
+248
+00:17:19,780 --> 00:17:22,300
+that we use and deal with every day.
+
+249
+00:17:22,340 --> 00:17:24,180
+So thank you for watching my video.
+
+250
+00:17:24,480 --> 00:17:25,340
+I hope you enjoyed it.
+
+251
+00:17:26,500 --> 00:17:29,840
+Yeah, let me know if you'd like to hear more of this kind of discussion with other game
+
+252
+00:17:29,840 --> 00:17:30,320
+mechanics.
+
+253
+00:17:30,800 --> 00:17:34,840
+And if you want to see more of where these ideas are kind of taking shape and the discussions
+
+254
+00:17:35,020 --> 00:17:40,940
+we're having about them, we're currently uploading a full Let's Play of disco-aliceum
+
+255
+00:17:40,960 --> 00:17:45,780
+with lots of like psychological analysis intermixed in that.
+
+256
+00:17:46,080 --> 00:17:50,680
+So subscribe if you want to catch those as they release or other standalone analyses
+
+257
+00:17:50,740 --> 00:17:52,080
+like this one.
+
+258
+00:17:59,700 --> 00:18:04,220
+Right now these two are the friction between me and finishing this video.
+
+259
+00:18:09,640 --> 00:18:10,700
+It's okay, I love them.
+
+260
+00:18:11,600 --> 00:18:14,340
+So with that said, I will see you guys next time.
+
+261
+00:18:14,520 --> 00:18:18,140
+I'm going to go try to make some of my own good decisions right now.
+
