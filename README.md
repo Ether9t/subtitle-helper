@@ -1,9 +1,6 @@
 ﻿# subtitle-helper
 
 
----
-
-
 
 #### `src/` Directory:
 
