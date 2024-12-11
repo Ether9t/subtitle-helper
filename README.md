@@ -1,16 +1,35 @@
 ﻿# subtitle-helper
 
-src/ └── download.ipynb # Download video from Youtube link
-     └── extract_timestamp.ipynb # Extract each word's timestamp
-     └── train_SaT.ipynb # Using you own datasets to train SaT
-     └── train_lora.py # .py that need to be replaced when training SaT
-     └── whisper-timestamp.ipynb # Setup for whisper-timestamped
-     └── whisper-timestamp.py # a GUI version
-     └── whisperx.ipynb # Setup for whisperX, only can run on Kaggle
-     
-json/ └── lora_dummy_config.json # Using when training SaT
-      └── output.json # Example for output of extract_timestamp
-      └── whisper-timestamp.json # Example for output of whisper-timestamp
-      └── whisperx.json # Example for output of whisperX
 
-srt/ Contains all .srt examples for one specific video
+---
+
+### File Descriptions:
+
+#### `src/` Directory:
+
+1. **`download.ipynb`**: Downloads a video from a YouTube link.
+2. **`extract_timestamp.ipynb`**: Extracts timestamps for each word in the video.
+3. **`train_SaT.ipynb`**: Trains SaT using your own dataset.
+4. **`train_lora.py`**: Python script that should be replaced when training SaT.
+5. **`whisper-timestamp.ipynb`**: Jupyter notebook for setting up whisper-timestamped data.
+6. **`whisper-timestamp.py`**: A GUI version for whisper-timestamp.
+7. **`whisperx.ipynb`**: Setup for WhisperX, only runnable on Kaggle.
+
+#### `json/` Directory:
+
+1. **`lora_dummy_config.json`**: Configuration file used when training SaT.
+2. **`output.json`**: Example output from `extract_timestamp`.
+3. **`whisper-timestamp.json`**: Example output from `whisper-timestamp`.
+4. **`whisperx.json`**: Example output from `whisperX`.
+
+#### `srt/` Directory:
+
+- Contains all `.srt` subtitle examples for a specific video.
+
+---
+
+### Explanation:
+
+- The **`src/`** directory contains scripts related to video processing, model training, and setup for different tools like Whisper.
+- The **`json/`** directory holds configuration files and output results for different processes.
+- The **`srt/`** directory contains subtitle files for a specific video, typically in `.srt` format.
