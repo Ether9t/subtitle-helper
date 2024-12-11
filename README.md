@@ -3,33 +3,33 @@
 
 ---
 
-### File Descriptions:
+
 
 #### `src/` Directory:
 
-1. **`download.ipynb`**: Downloads a video from a YouTube link.
-2. **`extract_timestamp.ipynb`**: Extracts timestamps for each word in the video.
-3. **`train_SaT.ipynb`**: Trains SaT using your own dataset.
-4. **`train_lora.py`**: Python script that should be replaced when training SaT.
-5. **`whisper-timestamp.ipynb`**: Jupyter notebook for setting up whisper-timestamped data.
-6. **`whisper-timestamp.py`**: A GUI version for whisper-timestamp.
-7. **`whisperx.ipynb`**: Setup for WhisperX, only runnable on Kaggle.
+1. **`download.ipynb`**: Downloads video from YouTube link
+2. **`extract_timestamp.ipynb`**: Extracts timestamps for each word
+3. **`train_SaT.ipynb`**: Trains SaT using your own dataset
+4. **`train_lora.py`**: When training SaT use this to replace original **`train_lora.py`**
+5. **`whisper-timestamp.ipynb`**: Set up whisper-timestamped
+6. **`whisper-timestamp.py`**: GUI version for whisper-timestamp.ipynb
+7. **`whisperx.ipynb`**: Setup for WhisperX, only runnable on Kaggle
 
 #### `json/` Directory:
 
-1. **`lora_dummy_config.json`**: Configuration file used when training SaT.
-2. **`output.json`**: Example output from `extract_timestamp`.
-3. **`whisper-timestamp.json`**: Example output from `whisper-timestamp`.
-4. **`whisperx.json`**: Example output from `whisperX`.
+1. **`lora_dummy_config.json`**: When training SaT, put this in target file
+2. **`output.json`**: Example output of `extract_timestamp`
+3. **`whisper-timestamp.json`**: Example output of `whisper-timestamp`
+4. **`whisperx.json`**: Example output of `whisperX`
 
 #### `srt/` Directory:
 
-- Contains all `.srt` subtitle examples for a specific video.
+- Contains all `.srt` subtitle examples for a specific video
 
 ---
 
-### Explanation:
+### Reference:
 
-- The **`src/`** directory contains scripts related to video processing, model training, and setup for different tools like Whisper.
-- The **`json/`** directory holds configuration files and output results for different processes.
-- The **`srt/`** directory contains subtitle files for a specific video, typically in `.srt` format.
+- [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped)
+- [whisperX](https://github.com/m-bain/whisperX)
+- [SaT](https://github.com/segment-any-text/wtpsplit)
