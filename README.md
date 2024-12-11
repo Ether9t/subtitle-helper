@@ -3,9 +3,9 @@ This repository contains a variety of attempts in order to find a better way to 
 
 After all, the most efficient way is still manual, but feel free to use the code here for more experimentation.
 
-[Please take an eye on our translation group's work.](https://www.bilibili.com/video/BV1Kw4m1y7wc/?spm_id_from=333.999.0.0&vd_source=bbfcfb180385a4fbb35ff59145d76ef7)
+[Please take an eye on our translation group's work](https://www.bilibili.com/video/BV1Kw4m1y7wc/?spm_id_from=333.999.0.0&vd_source=bbfcfb180385a4fbb35ff59145d76ef7)
 
-[You can also find all our subtitle files here.](https://drive.google.com/drive/folders/1Ja5W97xszDjXms-DCX4AMMJ3Lt56M-SA?usp=drive_link)
+[You can also find all our subtitle files here](https://drive.google.com/drive/folders/1Ja5W97xszDjXms-DCX4AMMJ3Lt56M-SA?usp=drive_link)
 
 
 #### `src/`:
