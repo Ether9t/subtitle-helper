@@ -1,5 +1,5 @@
 ﻿# subtitle-helper
-This repository contains a variety of attempts at making subtitles that might be useful. 
+This repository contains a variety of attempts in order to find a better way to make subtitles. 
 
 After all, the most efficient way is still manual, but feel free to use the code here for more experimentation.
 
