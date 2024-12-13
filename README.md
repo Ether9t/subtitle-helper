@@ -8,7 +8,7 @@ After all, the most efficient way is still manual, but feel free to use the code
 [You can also find all our subtitle files here](https://drive.google.com/drive/folders/1Ja5W97xszDjXms-DCX4AMMJ3Lt56M-SA?usp=drive_link)
 
 
-#### `src/`:
+#### `src/`
 
 1. **`download.ipynb`**: Downloads video from YouTube link
 2. **`extract_timestamp.ipynb`**: Extracts timestamps for each word
@@ -18,20 +18,20 @@ After all, the most efficient way is still manual, but feel free to use the code
 6. **`whisper-timestamp.py`**: GUI version for whisper-timestamp.ipynb
 7. **`whisperx.ipynb`**: Setup for WhisperX, only runnable on Kaggle
 
-#### `json/`:
+#### `json/`
 
 1. **`lora_dummy_config.json`**: When training SaT, put this in target file
 2. **`output.json`**: Example output of `extract_timestamp`
 3. **`whisper-timestamp.json`**: Example output of `whisper-timestamp`
 4. **`whisperx.json`**: Example output of `whisperX`
 
-#### `srt/`:
+#### `srt/`
 
 - Contains all `.srt` subtitle examples for a specific video
 
 
 
-### Reference:
+### Reference
 
 - [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped)
 - [whisperX](https://github.com/m-bain/whisperX)
